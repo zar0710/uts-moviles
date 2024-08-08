@@ -1,1 +1,1 @@
-Se realiza un codigo para hacer la comparacion entre dos numeros que el usuario ingresa para determinar cual de ellos es el numero mayor
+Se realiza un código para hacer la comparacion entre dos numeros ingresados por el usuario, para determinar cual de ellos es el numero mayor
